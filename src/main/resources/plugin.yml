@@ -1,0 +1,9 @@
+name: Devastator
+version: '${project.version}'
+main: com.devastator.devastator.Devastator
+api-version: 1.19
+commands:
+  dncpvp:
+    description: Opens the shop
+    usage: /dncpvp
+    aliases: [cpvp]
